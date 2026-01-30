@@ -4856,3 +4856,230 @@ Sampler Limit: 32
 [2026.01.30-21.19.44:287][879]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.01.30-21.19.44:287][879]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2026.01.30-21.19.44:287][879]LogShaderCompilers: Display: ================================================
+[2026.01.30-21.20.31:386][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8702.964844
+[2026.01.30-21.20.32:578][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset'.
+[2026.01.30-21.20.32:582][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Level_FaceTesting.umap, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Level_FaceTesting.umap'.
+[2026.01.30-21.20.32:584][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostEyes.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostEyes.uasset'.
+[2026.01.30-21.20.32:717][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostEyes2.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostEyes2.uasset'.
+[2026.01.30-21.20.32:721][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostMouth.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostMouth.uasset'.
+[2026.01.30-21.20.32:727][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset'.
+[2026.01.30-21.20.32:859][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset'.
+[2026.01.30-21.20.32:867][382]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset'.
+[2026.01.30-21.20.33:730][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-21.20.33:730][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8704.978516, Update Interval: 333.480042
+[2026.01.30-21.20.35:120][389]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.01.30-21.20.51:156][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.01.30-21.20.51:162][437]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.029
+[2026.01.30-21.20.51:165][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Lui/Main_character_test] ([1] browsable assets)...
+[2026.01.30-21.20.51:253][437]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Lui/Main_character_test.Main_character_test]
+[2026.01.30-21.20.51:253][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Lui/Main_character_test]
+[2026.01.30-21.20.51:354][437]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Lui/Main_character_test_Auto1
+[2026.01.30-21.20.51:354][437]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Main_character_test_Auto116DBD41A4519D0AEF5597497C9F74C11.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Autosaves/Game/Art/Lui/Main_character_test_Auto1.uasset'
+[2026.01.30-21.20.51:366][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Lui/Colour_Picker_new] ([1] browsable assets)...
+[2026.01.30-21.20.51:370][437]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Lui/Colour_Picker_new.Colour_Picker_new]
+[2026.01.30-21.20.51:370][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Lui/Colour_Picker_new]
+[2026.01.30-21.20.51:370][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Lui/Colour_Picker_new" FILE="M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Autosaves/Game/Art/Lui/Colour_Picker_new_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.01.30-21.20.51:527][437]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Lui/Colour_Picker_new_Auto1
+[2026.01.30-21.20.51:527][437]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Colour_Picker_new_Auto1445CA2B0430884A6E9C0158CB59205FA.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Autosaves/Game/Art/Lui/Colour_Picker_new_Auto1.uasset'
+[2026.01.30-21.20.51:534][437]LogFileHelpers: Auto-saving content packages took 0.373
+[2026.01.30-21.21.01:480][448]LogSlate: Window 'Import Content' being destroyed
+[2026.01.30-21.21.01:507][448]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.21.01:507][448]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.01.30-21.21.01:507][448]LogInterchangeEngine: [Success] Import Canceled
+[2026.01.30-21.21.01:559][449]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.21.01:564][449]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.21.01:569][449]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.21.01:569][449]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.21.01:792][450]LogStaticMesh: Adjacency [0.00s], tris: 4, UVs 1
+[2026.01.30-21.21.01:792][450]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.30-21.21.01:792][450]LogStaticMesh: Leaves [0.00s]
+[2026.01.30-21.21.01:792][450]LogStaticMesh: Reduce [0.00s]
+[2026.01.30-21.21.01:792][450]LogStaticMesh: Fallback [0.00s], num tris: 4
+[2026.01.30-21.21.01:793][450]LogStaticMesh: ConstrainClusters:
+[2026.01.30-21.21.01:793][450]LogStaticMesh:   Input: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.21.01:793][450]LogStaticMesh:   Output without splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.21.01:793][450]LogStaticMesh:   Output with splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.21.01:793][450]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.30-21.21.01:793][450]LogStaticMesh: WritePages:
+[2026.01.30-21.21.01:793][450]LogStaticMesh:   Root: GPU size: 240 bytes. 1 Pages. 240.000 bytes per page (0.732% utilization).
+[2026.01.30-21.21.01:793][450]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.30-21.21.01:793][450]LogStaticMesh:   Page data disk size: 400 bytes. Fixup data size: 24 bytes.
+[2026.01.30-21.21.01:793][450]LogStaticMesh:   Total GPU size: 240 bytes, Total disk size: 424 bytes.
+[2026.01.30-21.21.01:793][450]LogStaticMesh: Encode [0.00s]
+[2026.01.30-21.21.01:793][450]LogStaticMesh: NaniteBuild [0.00s]
+[2026.01.30-21.21.01:793][450]LogStaticMesh: Built static mesh [0.00s] /Game/GhostFace/Mesh_TestGhostFace.Mesh_TestGhostFace
+[2026.01.30-21.21.01:825][450]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.21.01:865][450]LogStaticMesh: Adjacency [0.00s], tris: 4, UVs 1
+[2026.01.30-21.21.01:865][450]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.30-21.21.01:865][450]LogStaticMesh: Leaves [0.00s]
+[2026.01.30-21.21.01:865][450]LogStaticMesh: Reduce [0.00s]
+[2026.01.30-21.21.01:865][450]LogStaticMesh: Fallback [0.00s], num tris: 4
+[2026.01.30-21.21.01:865][450]LogStaticMesh: ConstrainClusters:
+[2026.01.30-21.21.01:865][450]LogStaticMesh:   Input: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.21.01:865][450]LogStaticMesh:   Output without splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.21.01:865][450]LogStaticMesh:   Output with splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.21.01:865][450]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.30-21.21.01:865][450]LogStaticMesh: WritePages:
+[2026.01.30-21.21.01:865][450]LogStaticMesh:   Root: GPU size: 240 bytes. 1 Pages. 240.000 bytes per page (0.732% utilization).
+[2026.01.30-21.21.01:865][450]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.30-21.21.01:865][450]LogStaticMesh:   Page data disk size: 400 bytes. Fixup data size: 24 bytes.
+[2026.01.30-21.21.01:865][450]LogStaticMesh:   Total GPU size: 240 bytes, Total disk size: 424 bytes.
+[2026.01.30-21.21.01:865][450]LogStaticMesh: Encode [0.00s]
+[2026.01.30-21.21.01:865][450]LogStaticMesh: NaniteBuild [0.00s]
+[2026.01.30-21.21.01:866][450]LogStaticMesh: Built static mesh [0.00s] /Game/GhostFace/Mesh_TestGhostFace.Mesh_TestGhostFace
+[2026.01.30-21.21.01:889][450]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.21.01:889][450]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.21.02:108][451]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.21.02:112][451]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.21.02:114][451]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.21.02:114][451]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.21.02:390][452]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.21.02:394][452]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.21.02:396][452]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.21.02:396][452]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.21.02:497][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-21.21.02:710][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/Mesh_TestGhostFace] ([1] browsable assets)...
+[2026.01.30-21.21.02:881][453]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GhostFace/Mesh_TestGhostFace.Mesh_TestGhostFace]
+[2026.01.30-21.21.02:881][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/Mesh_TestGhostFace]
+[2026.01.30-21.21.02:881][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/Mesh_TestGhostFace" FILE="M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset" SILENT=true
+[2026.01.30-21.21.02:970][453]LogSavePackage: Moving output files for package: /Game/GhostFace/Mesh_TestGhostFace
+[2026.01.30-21.21.02:978][453]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Mesh_TestGhostFaceA6CCA32440AAB19B5EED52B340B99983.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset'
+[2026.01.30-21.21.03:002][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/Tex_test_ghost_eyes] ([1] browsable assets)...
+[2026.01.30-21.21.03:003][453]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/Tex_test_ghost_eyes.Tex_test_ghost_eyes]
+[2026.01.30-21.21.03:003][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/Tex_test_ghost_eyes]
+[2026.01.30-21.21.03:003][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/Tex_test_ghost_eyes" FILE="M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset" SILENT=true
+[2026.01.30-21.21.03:042][453]LogSavePackage: Moving output files for package: /Game/GhostFace/Tex_test_ghost_eyes
+[2026.01.30-21.21.03:049][453]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Tex_test_ghost_eyes2B5998D04696E64C993677A713A305A9.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset'
+[2026.01.30-21.21.03:070][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/Tex_test_ghost_mouth] ([1] browsable assets)...
+[2026.01.30-21.21.03:072][453]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/Tex_test_ghost_mouth.Tex_test_ghost_mouth]
+[2026.01.30-21.21.03:072][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/Tex_test_ghost_mouth]
+[2026.01.30-21.21.03:072][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/Tex_test_ghost_mouth" FILE="M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset" SILENT=true
+[2026.01.30-21.21.03:110][453]LogSavePackage: Moving output files for package: /Game/GhostFace/Tex_test_ghost_mouth
+[2026.01.30-21.21.03:117][453]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Tex_test_ghost_mouth43FF7FD043690F945C906989C2DF1F89.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset'
+[2026.01.30-21.21.03:149][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 651.335 ms (total: 19.4 sec)
+[2026.01.30-21.21.03:178][453]LogSourceControl: Display: Uncontrolled Changelist persistency file saved M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-21.21.03:181][454]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset'.
+[2026.01.30-21.21.03:182][454]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset'.
+[2026.01.30-21.21.03:251][454]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.30-21.21.03:251][454]LogContentValidation: Enabled validators:
+[2026.01.30-21.21.03:251][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-21.21.03:251][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-21.21.03:251][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-21.21.03:251][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-21.21.03:251][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-21.21.03:251][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-21.21.03:252][454]AssetCheck: /Game/GhostFace/Mesh_TestGhostFace Validating asset
+[2026.01.30-21.21.03:252][454]AssetCheck: /Game/GhostFace/Tex_test_ghost_eyes Validating asset
+[2026.01.30-21.21.03:252][454]AssetCheck: /Game/GhostFace/Tex_test_ghost_mouth Validating asset
+[2026.01.30-21.21.06:151][788]AssetReimport: Reimported asset Mesh_TestGhostFace from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.fbx.
+[2026.01.30-21.21.06:151][788]AssetReimport: Reimported asset Tex_test_ghost_eyes from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/test_ghost_eyes.png.
+[2026.01.30-21.21.06:151][788]AssetReimport: Reimported asset Tex_test_ghost_mouth from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/test_ghost_mouth.png.
+[2026.01.30-21.22.05:187][ 80]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: ================================================
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Total job queries 2,650, among them cache hits 655 (24.72%), DDC hits 1,394 (52.60%), Duplicates 174 (6.57%)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Tracking 1,818 distinct input hashes that result in 1,152 distinct outputs (63.37%)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: RAM used: 11.42 MiB of 1.60 GiB budget. Usage: 0.70%
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Shaders Compiled: 424
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Jobs assigned 424, completed 424 (100%)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Average time worker was idle: 458.61 s
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Time job spent in pending queue: average 1.50 s, longest 6.90 s
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Job execution time: average 1.81 s, max 4.72 s
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Job life time (pending + execution): average 3.31 s, max 7.38
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Shader code size: total 3.957 MiB, numShaders 449, average 9.024 KiB, min 2.246 KiB, max 33.121 KiB
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.50 s
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  2.47%
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Jobs were issued in 166 batches (only local compilation was used), average 2.55 jobs/batch
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Average processing rate: 15.42 jobs/sec
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Total thread time: 141.363 s
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Total thread preprocess time: 29.257 s
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Percentage time preprocessing: 20.70%
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Effective parallelization: 5.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.428378
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 1.69 sec, max 2.05 sec, min 1.34 sec)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 1.12 sec, max 1.27 sec, min 0.94 sec)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 1.12 sec, max 1.25 sec, min 0.97 sec)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 0.87 sec, max 0.95 sec, min 0.73 sec)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.72 sec, max 0.81 sec, min 0.64 sec)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.32% of total time (compiled   59 times, average 0.37 sec, max 0.97 sec, min 0.22 sec)
+[2026.01.30-21.22.44:444][161]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.63% of total time (compiled   54 times, average 0.25 sec, max 0.79 sec, min 0.13 sec)
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display:                                                  FVelocityPS - 8.01% of total time (compiled   24 times, average 0.47 sec, max 0.65 sec, min 0.32 sec)
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.25% of total time (compiled   45 times, average 0.23 sec, max 0.71 sec, min 0.10 sec)
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.01% of total time (compiled   28 times, average 0.35 sec, max 0.60 sec, min 0.22 sec)
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: === Material stats ===
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: Materials Translated:    167
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.30-21.22.44:445][161]LogShaderCompilers: Display: ================================================
+[2026.01.30-21.26.56:505][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9088.062500
+[2026.01.30-21.26.57:504][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-21.26.57:504][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9088.728516, Update Interval: 319.898682
+[2026.01.30-21.28.14:782][ 25]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.30-21.28.14:782][ 25]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.01.30-21.28.14:783][ 25]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 584 us (total: 16.793 ms)
+[2026.01.30-21.28.14:783][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.30-21.28.14:783][ 25]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.01.30-21.28.14:787][ 25]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.30-21.28.14:788][ 25]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 760 us (total: 21.347 ms)
+[2026.01.30-21.28.14:788][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005163s)
+[2026.01.30-21.28.14:788][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005191s)
+[2026.01.30-21.28.14:815][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.30-21.28.14:819][ 25]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.01.30-21.28.14:820][ 25]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.30-21.28.14:820][ 25]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.30-21.28.14:820][ 25]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.30-21.28.14:820][ 25]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.30-21.28.14:821][ 25]LogWorldPartition: Display: WorldPartition initialize took 1.056 ms (total: 298.535 ms)
+[2026.01.30-21.28.14:821][ 25]LogPlayLevel: PIE: World Init took: (0.002585s)
+[2026.01.30-21.28.14:822][ 25]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.01.30-21.28.14:822][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.30-21.28.14:822][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.30-21.28.14:822][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.30-21.28.14:822][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.30-21.28.14:822][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.30-21.28.14:822][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.30-21.28.14:822][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.30-21.28.14:822][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.30-21.28.14:822][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.30-21.28.14:822][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.30-21.28.14:822][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.30-21.28.14:823][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.30-21.28.14:832][ 25]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.01.30-21.28.14:833][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.30-21.28.14:833][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.30-21.28.14:833][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.30-21.28.14:834][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.01.30-21.28.14:834][ 25]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=28
+[2026.01.30-21.28.14:834][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.01.30-21.28.14:834][ 25]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8788
+[2026.01.30-21.28.14:834][ 25]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=28
+[2026.01.30-21.28.14:835][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.01.30-21.28.14:835][ 25]LogInit: FAudioDevice initialized with ID 28.
+[2026.01.30-21.28.14:835][ 25]LogAudio: Display: Audio Device (ID: 28) registered with world 'Lvl_FirstPerson'.
+[2026.01.30-21.28.14:835][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.01.30-21.28.14:839][ 25]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.30-21.28.14:842][ 25]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.01.30-21.28.14
+[2026.01.30-21.28.14:843][ 25]LogWorld: Bringing up level for play took: 0.003764
+[2026.01.30-21.28.14:844][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.01.30-21.28.14:850][ 25]PIE: Server logged in
+[2026.01.30-21.28.14:851][ 25]PIE: Play in editor total start time 0.07 seconds.
+[2026.01.30-21.28.28:510][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-21.28.28:510][644]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.01.30-21.28.28:510][644]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.30-21.28.28:511][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-21.28.28:511][644]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.01.30-21.28.28:513][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.30-21.28.28:515][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-21.28.28:538][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.30-21.28.28:539][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.01.30-21.28.28:539][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.01.30-21.28.28:541][644]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.01.30-21.28.28:541][644]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=28
+[2026.01.30-21.28.28:542][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-21.28.28:545][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.30-21.28.28:625][645]LogPlayLevel: Display: Destroying online subsystem :Context_45
