@@ -1484,3 +1484,47 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2026.01.30-18.58.50:860][643]LogContentBrowser: End creating deferred item NewFolder
 [2026.01.30-18.59.51:198][394]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
 [2026.01.30-18.59.56:348][955]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-19.01.24:105][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 355.837891
+[2026.01.30-19.01.24:263][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-19.01.24:263][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.989197, Update Interval: 339.418304
+[2026.01.30-19.01.34:768][554]LogShaderCompilers: Display: ================================================
+[2026.01.30-19.01.34:768][554]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.30-19.01.34:768][554]LogShaderCompilers: Display: Total job queries 2,509, among them cache hits 598 (23.83%), DDC hits 1,386 (55.24%), Duplicates 151 (6.02%)
+[2026.01.30-19.01.34:768][554]LogShaderCompilers: Display: Tracking 1,760 distinct input hashes that result in 1,104 distinct outputs (62.73%)
+[2026.01.30-19.01.34:768][554]LogShaderCompilers: Display: RAM used: 11.01 MiB of 1.60 GiB budget. Usage: 0.67%
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Shaders Compiled: 374
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Jobs assigned 374, completed 374 (100%)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Average time worker was idle: 3.91 s
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Time job spent in pending queue: average 1.69 s, longest 6.90 s
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Job execution time: average 1.95 s, max 4.72 s
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Job life time (pending + execution): average 3.65 s, max 7.38
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Shader code size: total 3.475 MiB, numShaders 397, average 8.964 KiB, min 2.246 KiB, max 33.121 KiB
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.63 s
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  2.58%
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Jobs were issued in 116 batches (only local compilation was used), average 3.22 jobs/batch
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Average processing rate: 22.49 jobs/sec
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Total thread time: 117.188 s
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Total thread preprocess time: 27.661 s
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Percentage time preprocessing: 23.60%
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Effective parallelization: 7.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.587298
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   23 times, average 0.48 sec, max 0.65 sec, min 0.32 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.39 sec, max 0.60 sec, min 0.30 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   46 times, average 0.39 sec, max 0.97 sec, min 0.22 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.15% of total time (compiled   46 times, average 0.39 sec, max 0.97 sec, min 0.22 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.37% of total time (compiled   48 times, average 0.25 sec, max 0.79 sec, min 0.13 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                                                  FVelocityPS - 9.33% of total time (compiled   23 times, average 0.48 sec, max 0.65 sec, min 0.32 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                                             FDebugViewModeVS - 8.74% of total time (compiled   45 times, average 0.23 sec, max 0.71 sec, min 0.10 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.92% of total time (compiled   26 times, average 0.36 sec, max 0.60 sec, min 0.22 sec)
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: === Material stats ===
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Materials Translated:    144
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.01.30-19.01.34:769][554]LogShaderCompilers: Display: Material Translation Only: 0.03 s (33%)
+[2026.01.30-19.01.34:770][554]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.30-19.01.34:770][554]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.30-19.01.34:770][554]LogShaderCompilers: Display: ================================================
