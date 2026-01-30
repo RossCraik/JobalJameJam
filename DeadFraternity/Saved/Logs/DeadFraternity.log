@@ -5083,3 +5083,110 @@ Sampler Limit: 32
 [2026.01.30-21.28.28:542][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.01.30-21.28.28:545][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2026.01.30-21.28.28:625][645]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.01.30-21.29.21:552][162]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset'.
+[2026.01.30-21.29.21:554][162]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Level_FaceTesting.umap, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Level_FaceTesting.umap'.
+[2026.01.30-21.29.21:557][162]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostEyes2.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostEyes2.uasset'.
+[2026.01.30-21.29.21:559][162]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset'.
+[2026.01.30-21.29.21:733][162]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset'.
+[2026.01.30-21.29.21:739][162]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset'.
+[2026.01.30-21.29.25:009][172]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.01.30-21.29.57:705][217]LogSlate: Window 'Import Content' being destroyed
+[2026.01.30-21.29.57:729][217]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.29.57:737][217]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.29.57:743][217]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.29.57:772][217]LogStaticMesh: Adjacency [0.00s], tris: 4, UVs 1
+[2026.01.30-21.29.57:772][217]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.30-21.29.57:772][217]LogStaticMesh: Leaves [0.00s]
+[2026.01.30-21.29.57:772][217]LogStaticMesh: Reduce [0.00s]
+[2026.01.30-21.29.57:772][217]LogStaticMesh: Fallback [0.00s], num tris: 4
+[2026.01.30-21.29.57:772][217]LogStaticMesh: ConstrainClusters:
+[2026.01.30-21.29.57:772][217]LogStaticMesh:   Input: 1 Clusters, 4 Triangles and 4 Vertices
+[2026.01.30-21.29.57:772][217]LogStaticMesh:   Output without splits: 1 Clusters, 4 Triangles and 4 Vertices
+[2026.01.30-21.29.57:772][217]LogStaticMesh:   Output with splits: 1 Clusters, 4 Triangles and 4 Vertices
+[2026.01.30-21.29.57:772][217]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.30-21.29.57:772][217]LogStaticMesh: WritePages:
+[2026.01.30-21.29.57:772][217]LogStaticMesh:   Root: GPU size: 204 bytes. 1 Pages. 204.000 bytes per page (0.623% utilization).
+[2026.01.30-21.29.57:772][217]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.30-21.29.57:772][217]LogStaticMesh:   Page data disk size: 356 bytes. Fixup data size: 24 bytes.
+[2026.01.30-21.29.57:772][217]LogStaticMesh:   Total GPU size: 204 bytes, Total disk size: 380 bytes.
+[2026.01.30-21.29.57:772][217]LogStaticMesh: Encode [0.00s]
+[2026.01.30-21.29.57:772][217]LogStaticMesh: NaniteBuild [0.00s]
+[2026.01.30-21.29.57:773][217]LogStaticMesh: Built static mesh [0.00s] /Game/GhostFace/Import/Mesh_GhostFace.Mesh_GhostFace
+[2026.01.30-21.29.57:793][217]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.29.57:793][217]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.29.57:864][218]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.29.57:866][218]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.29.57:868][218]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.29.57:868][218]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.29.57:879][218]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.29.57:880][218]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.29.57:883][218]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.29.57:883][218]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.29.58:031][219]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.29.58:033][219]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.29.58:035][219]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.29.58:035][219]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.29.58:044][219]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.29.58:046][219]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.30-21.29.58:049][219]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.29.58:049][219]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.29.58:328][220]LogInterchangeEngine: [Pending] Importing
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Adjacency [0.00s], tris: 4, UVs 1
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Leaves [0.00s]
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Reduce [0.00s]
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Fallback [0.00s], num tris: 4
+[2026.01.30-21.29.58:363][220]LogStaticMesh: ConstrainClusters:
+[2026.01.30-21.29.58:363][220]LogStaticMesh:   Input: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.29.58:363][220]LogStaticMesh:   Output without splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.29.58:363][220]LogStaticMesh:   Output with splits: 1 Clusters, 4 Triangles and 8 Vertices
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.30-21.29.58:363][220]LogStaticMesh: WritePages:
+[2026.01.30-21.29.58:363][220]LogStaticMesh:   Root: GPU size: 240 bytes. 1 Pages. 240.000 bytes per page (0.732% utilization).
+[2026.01.30-21.29.58:363][220]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.30-21.29.58:363][220]LogStaticMesh:   Page data disk size: 400 bytes. Fixup data size: 24 bytes.
+[2026.01.30-21.29.58:363][220]LogStaticMesh:   Total GPU size: 240 bytes, Total disk size: 424 bytes.
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Encode [0.00s]
+[2026.01.30-21.29.58:363][220]LogStaticMesh: NaniteBuild [0.00s]
+[2026.01.30-21.29.58:363][220]LogStaticMesh: Built static mesh [0.00s] /Game/GhostFace/Mesh_TestGhostFace.Mesh_TestGhostFace
+[2026.01.30-21.29.58:396][220]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.30-21.29.58:396][220]LogInterchangeEngine: [Success] Import Done
+[2026.01.30-21.29.58:735][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-21.29.58:883][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/Tex_test_ghost_mouth] ([1] browsable assets)...
+[2026.01.30-21.29.58:887][221]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/Tex_test_ghost_mouth.Tex_test_ghost_mouth]
+[2026.01.30-21.29.58:887][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/Tex_test_ghost_mouth]
+[2026.01.30-21.29.58:887][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/Tex_test_ghost_mouth" FILE="M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset" SILENT=true
+[2026.01.30-21.29.58:928][221]LogSavePackage: Moving output files for package: /Game/GhostFace/Tex_test_ghost_mouth
+[2026.01.30-21.29.58:934][221]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Tex_test_ghost_mouth355A52E7487650A9B88782A3C3CBEF38.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_mouth.uasset'
+[2026.01.30-21.29.58:948][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/Tex_test_ghost_eyes] ([1] browsable assets)...
+[2026.01.30-21.29.58:950][221]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/Tex_test_ghost_eyes.Tex_test_ghost_eyes]
+[2026.01.30-21.29.58:950][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/Tex_test_ghost_eyes]
+[2026.01.30-21.29.58:950][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/Tex_test_ghost_eyes" FILE="M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset" SILENT=true
+[2026.01.30-21.29.58:993][221]LogSavePackage: Moving output files for package: /Game/GhostFace/Tex_test_ghost_eyes
+[2026.01.30-21.29.59:001][221]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Tex_test_ghost_eyes253F5C804FC957F5E4FC4AA2B7833AB9.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset'
+[2026.01.30-21.29.59:015][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/Mesh_TestGhostFace] ([1] browsable assets)...
+[2026.01.30-21.29.59:188][221]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.30-21.29.59:212][221]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GhostFace/Mesh_TestGhostFace.Mesh_TestGhostFace]
+[2026.01.30-21.29.59:212][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/Mesh_TestGhostFace]
+[2026.01.30-21.29.59:212][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/Mesh_TestGhostFace" FILE="M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset" SILENT=true
+[2026.01.30-21.29.59:307][221]LogSavePackage: Moving output files for package: /Game/GhostFace/Mesh_TestGhostFace
+[2026.01.30-21.29.59:315][221]LogSavePackage: Moving 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Saved/Mesh_TestGhostFace09E0CEFE4511CE0C40D348A62352147C.tmp' to 'M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset'
+[2026.01.30-21.29.59:347][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 612.617 ms (total: 20.0 sec)
+[2026.01.30-21.29.59:380][222]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Tex_test_ghost_eyes.uasset'.
+[2026.01.30-21.29.59:381][222]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset, because GetFilenameOnDisk returned non-matching filename '//StuHomeEven/HomeDrive8$/2102628/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset'.
+[2026.01.30-21.29.59:440][222]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.30-21.29.59:440][222]LogContentValidation: Enabled validators:
+[2026.01.30-21.29.59:440][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-21.29.59:440][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-21.29.59:440][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-21.29.59:440][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-21.29.59:440][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-21.29.59:440][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-21.29.59:440][222]AssetCheck: /Game/GhostFace/Tex_test_ghost_mouth Validating asset
+[2026.01.30-21.29.59:440][222]AssetCheck: /Game/GhostFace/Tex_test_ghost_eyes Validating asset
+[2026.01.30-21.29.59:440][222]AssetCheck: /Game/GhostFace/Mesh_TestGhostFace Validating asset
+[2026.01.30-21.30.02:353][568]AssetReimport: Reimported asset Tex_test_ghost_mouth from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/test_ghost_mouth.png.
+[2026.01.30-21.30.02:353][568]AssetReimport: Reimported asset test_ghost_mouth from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/test_ghost_mouth.png.
+[2026.01.30-21.30.02:353][568]AssetReimport: Reimported asset Tex_test_ghost_eyes from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/test_ghost_eyes.png.
+[2026.01.30-21.30.02:353][568]AssetReimport: Reimported asset test_ghost_eyes from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/test_ghost_eyes.png.
+[2026.01.30-21.30.02:353][568]AssetReimport: Reimported asset Mesh_TestGhostFace from M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.fbx.
