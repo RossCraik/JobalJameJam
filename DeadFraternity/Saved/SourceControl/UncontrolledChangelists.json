@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/Programming/BPI_Dialog.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/Programming/BP_NPC.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/Programming/BPI_Dialogue.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/Programming/WB_Dialogue.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/WP/MIRV2L7DDY048Z1JPX1P28.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/Y7/G337YG93ATX870M5VEXKYW.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/Art/Lui/UVchecker.uasset"
+			]
+		}
+	]
+}
