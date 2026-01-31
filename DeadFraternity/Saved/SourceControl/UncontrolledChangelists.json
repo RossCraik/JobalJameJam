@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/Programming/BP_NPC.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/WP/MIRV2L7DDY048Z1JPX1P28.uasset",
+				"D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostFace.uasset",
 				"D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset",
 				"D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/Level_FaceTesting.umap",
 				"D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/Mesh_TestGhostFace.uasset",
