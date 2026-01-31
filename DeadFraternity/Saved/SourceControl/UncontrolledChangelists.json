@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"M:/GlobalGameJam/JobalJameJam/DeadFraternity/Content/Programming/BP_NPC.uasset",
 				"D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/Mat_GhostFace.uasset",
 				"D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset",
 				"D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/Level_FaceTesting.umap",
