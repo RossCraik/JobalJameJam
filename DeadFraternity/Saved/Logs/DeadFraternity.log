@@ -4413,3 +4413,297 @@ Sampler Limit: 32
 [2026.01.31-11.40.17:657][528]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=27
 [2026.01.31-11.40.17:660][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2026.01.31-11.40.17:746][529]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.01.31-11.41.00:528][949]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-11.41.00:532][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-11.41.00:533][949]LogPlayLevel: Creating play world package: /Game/GhostFace/UEDPIE_0_Level_FaceTesting
+[2026.01.31-11.41.00:534][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2026.01.31-11.41.00:535][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostFace/Level_FaceTesting.Level_FaceTesting to /Game/GhostFace/UEDPIE_0_Level_FaceTesting.Level_FaceTesting (0.001941s)
+[2026.01.31-11.41.00:556][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.01.31-11.41.00:557][949]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_FaceTesting
+[2026.01.31-11.41.00:559][949]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2026.01.31-11.41.00:559][949]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.01.31-11.41.00:559][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-11.41.00:559][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-11.41.00:559][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-11.41.00:559][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-11.41.00:559][949]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-11.41.00:559][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-11.41.00:559][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-11.41.00:559][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-11.41.00:559][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-11.41.00:559][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-11.41.00:559][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-11.41.00:562][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-11.41.00:577][949]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.01.31-11.41.00:578][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-11.41.00:578][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-11.41.00:578][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-11.41.00:578][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.01.31-11.41.00:578][949]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=28
+[2026.01.31-11.41.00:578][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.01.31-11.41.00:578][949]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=29628
+[2026.01.31-11.41.00:578][949]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=28
+[2026.01.31-11.41.00:580][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.01.31-11.41.00:580][949]LogInit: FAudioDevice initialized with ID 28.
+[2026.01.31-11.41.00:580][949]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level_FaceTesting'.
+[2026.01.31-11.41.00:580][949]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.01.31-11.41.00:583][949]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.31-11.41.00:583][949]LogWorld: Bringing World /Game/GhostFace/UEDPIE_0_Level_FaceTesting.Level_FaceTesting up for play (max tick rate 0) at 2026.01.31-11.41.00
+[2026.01.31-11.41.00:584][949]LogWorld: Bringing up level for play took: 0.000667
+[2026.01.31-11.41.00:585][949]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.01.31-11.41.00:591][949]PIE: Server logged in
+[2026.01.31-11.41.00:592][949]PIE: Play in editor total start time 0.059 seconds.
+[2026.01.31-11.41.02:754][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-11.41.02:754][143]LogWorld: BeginTearingDown for /Game/GhostFace/UEDPIE_0_Level_FaceTesting
+[2026.01.31-11.41.02:754][143]LogWorld: UWorld::CleanupWorld for Level_FaceTesting, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-11.41.02:755][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-11.41.02:757][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-11.41.02:760][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-11.41.02:779][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-11.41.02:779][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.01.31-11.41.02:779][143]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.01.31-11.41.02:781][143]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.01.31-11.41.02:781][143]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=28
+[2026.01.31-11.41.02:784][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.31-11.41.02:877][144]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.01.31-11.41.10:843][275]LogDerivedDataCache: C:/Users/2203351/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.31-11.42.26:119][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.31-11.42.26:704][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-11.42.26:744][276]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GhostFace/BP_GhostFace] ([2] browsable assets)...
+[2026.01.31-11.42.26:751][276]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GhostFace/BP_GhostFace.BP_GhostFace]
+[2026.01.31-11.42.26:751][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/BP_GhostFace]
+[2026.01.31-11.42.26:751][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/BP_GhostFace" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset" SILENT=true
+[2026.01.31-11.42.26:768][276]LogSavePackage: Moving output files for package: /Game/GhostFace/BP_GhostFace
+[2026.01.31-11.42.26:769][276]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/BP_GhostFace994BA3944694B1869C6C79B9D9C5F7B1.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset'
+[2026.01.31-11.42.26:775][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.290 ms (total: 4.25 sec)
+[2026.01.31-11.42.26:827][276]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-11.42.26:827][276]LogContentValidation: Enabled validators:
+[2026.01.31-11.42.26:827][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-11.42.26:827][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-11.42.26:827][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-11.42.26:827][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-11.42.26:827][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-11.42.26:827][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-11.42.26:827][276]AssetCheck: /Game/GhostFace/BP_GhostFace Validating asset
+[2026.01.31-11.42.28:947][476]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-11.42.28:951][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-11.42.28:984][476]LogPlayLevel: Creating play world package: /Game/GhostFace/UEDPIE_0_Level_FaceTesting
+[2026.01.31-11.42.28:987][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003335s)
+[2026.01.31-11.42.28:987][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostFace/Level_FaceTesting.Level_FaceTesting to /Game/GhostFace/UEDPIE_0_Level_FaceTesting.Level_FaceTesting (0.003380s)
+[2026.01.31-11.42.29:009][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.31-11.42.29:011][476]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_FaceTesting
+[2026.01.31-11.42.29:012][476]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2026.01.31-11.42.29:013][476]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.01.31-11.42.29:013][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-11.42.29:013][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-11.42.29:013][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-11.42.29:013][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-11.42.29:013][476]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-11.42.29:013][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-11.42.29:013][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-11.42.29:013][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-11.42.29:013][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-11.42.29:013][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-11.42.29:013][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-11.42.29:014][476]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-11.42.29:030][476]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.01.31-11.42.29:031][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-11.42.29:031][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-11.42.29:031][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-11.42.29:031][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.01.31-11.42.29:031][476]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=29
+[2026.01.31-11.42.29:031][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.01.31-11.42.29:031][476]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14596
+[2026.01.31-11.42.29:031][476]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=29
+[2026.01.31-11.42.29:033][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.01.31-11.42.29:033][476]LogInit: FAudioDevice initialized with ID 29.
+[2026.01.31-11.42.29:033][476]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level_FaceTesting'.
+[2026.01.31-11.42.29:033][476]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.01.31-11.42.29:036][476]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.31-11.42.29:037][476]LogWorld: Bringing World /Game/GhostFace/UEDPIE_0_Level_FaceTesting.Level_FaceTesting up for play (max tick rate 0) at 2026.01.31-11.42.29
+[2026.01.31-11.42.29:037][476]LogWorld: Bringing up level for play took: 0.000605
+[2026.01.31-11.42.29:038][476]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.01.31-11.42.29:043][476]PIE: Server logged in
+[2026.01.31-11.42.29:045][476]PIE: Play in editor total start time 0.094 seconds.
+[2026.01.31-11.43.06:196][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-11.43.06:196][525]LogWorld: BeginTearingDown for /Game/GhostFace/UEDPIE_0_Level_FaceTesting
+[2026.01.31-11.43.06:196][525]LogWorld: UWorld::CleanupWorld for Level_FaceTesting, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-11.43.06:196][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-11.43.06:199][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-11.43.06:201][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-11.43.06:220][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.31-11.43.06:221][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.01.31-11.43.06:221][525]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.01.31-11.43.06:222][525]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.01.31-11.43.06:222][525]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=29
+[2026.01.31-11.43.06:224][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-11.43.06:226][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.31-11.43.06:320][526]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.01.31-11.44.49:677][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.01.31-11.44.50:528][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-11.44.50:588][750]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GhostFace/BP_GhostFace] ([2] browsable assets)...
+[2026.01.31-11.44.50:615][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GhostFace/BP_GhostFace.BP_GhostFace]
+[2026.01.31-11.44.50:615][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/BP_GhostFace]
+[2026.01.31-11.44.50:615][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/BP_GhostFace" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset" SILENT=true
+[2026.01.31-11.44.50:633][750]LogSavePackage: Moving output files for package: /Game/GhostFace/BP_GhostFace
+[2026.01.31-11.44.50:633][750]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/BP_GhostFace51CEF07B4E2B39C0BEDD5EBEB7076175.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/BP_GhostFace.uasset'
+[2026.01.31-11.44.50:639][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.069 ms (total: 4.36 sec)
+[2026.01.31-11.44.50:702][750]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-11.44.50:702][750]LogContentValidation: Enabled validators:
+[2026.01.31-11.44.50:702][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-11.44.50:702][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-11.44.50:702][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-11.44.50:702][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-11.44.50:702][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-11.44.50:702][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-11.44.50:702][750]AssetCheck: /Game/GhostFace/BP_GhostFace Validating asset
+[2026.01.31-11.45.33:708][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3972.087646
+[2026.01.31-11.45.34:708][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.31-11.45.34:708][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3972.746826, Update Interval: 353.818176
+[2026.01.31-11.46.32:291][ 94]LogInterchangeEngine: [Pending] Importing
+[2026.01.31-11.46.32:306][ 94]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.31-11.46.32:329][ 94]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.31-11.46.32:329][ 94]LogInterchangeEngine: [Success] Import Done
+[2026.01.31-11.46.34:734][293]Cmd: DUPLICATE
+[2026.01.31-11.46.34:734][293]Cmd: ACTOR DUPLICATE
+[2026.01.31-11.46.39:777][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.31-11.46.41:178][779]LogSlate: Window 'Save Content' being destroyed
+[2026.01.31-11.46.41:202][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-11.46.41:280][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.31-11.46.41:288][779]LogSavePackage: Moving output files for package: /Game/GhostFace/Level_FaceTesting
+[2026.01.31-11.46.41:289][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/Level_FaceTesting477160B449EF1C5AC5FAF1B0B1D3E22D.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/Level_FaceTesting.umap'
+[2026.01.31-11.46.41:295][779]LogFileHelpers: Saving map 'Level_FaceTesting' took 0.041
+[2026.01.31-11.46.41:295][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_bbs_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:297][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_bbs_eyes.tex_bbs_eyes]
+[2026.01.31-11.46.41:297][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_bbs_eyes]
+[2026.01.31-11.46.41:297][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_bbs_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_bbs_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:316][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_bbs_eyes
+[2026.01.31-11.46.41:316][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_bbs_eyes99A6639B4F5A039C95391B8DB893F95A.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_bbs_eyes.uasset'
+[2026.01.31-11.46.41:321][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_blue_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:323][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_blue_eyes.tex_blue_eyes]
+[2026.01.31-11.46.41:323][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_blue_eyes]
+[2026.01.31-11.46.41:323][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_blue_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_blue_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:342][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_blue_eyes
+[2026.01.31-11.46.41:342][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_blue_eyes431800E849477D728EE431B4D74A2EC6.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_blue_eyes.uasset'
+[2026.01.31-11.46.41:344][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_bug_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:345][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_bug_eyes.tex_bug_eyes]
+[2026.01.31-11.46.41:345][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_bug_eyes]
+[2026.01.31-11.46.41:345][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_bug_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_bug_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:366][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_bug_eyes
+[2026.01.31-11.46.41:366][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_bug_eyes139E54B94FF00EE9D40B48967A791A90.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_bug_eyes.uasset'
+[2026.01.31-11.46.41:368][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_chad_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:369][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_chad_eyes.tex_chad_eyes]
+[2026.01.31-11.46.41:369][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_chad_eyes]
+[2026.01.31-11.46.41:369][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_chad_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_chad_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:387][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_chad_eyes
+[2026.01.31-11.46.41:387][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_chad_eyesD7D9077D4397073529353D8178B235D5.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_chad_eyes.uasset'
+[2026.01.31-11.46.41:388][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_cute_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:390][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_cute_eyes.tex_cute_eyes]
+[2026.01.31-11.46.41:390][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_cute_eyes]
+[2026.01.31-11.46.41:390][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_cute_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_cute_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:409][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_cute_eyes
+[2026.01.31-11.46.41:409][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_cute_eyesEF1B2B624DA8D1A490E4479B8273E0B3.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_cute_eyes.uasset'
+[2026.01.31-11.46.41:411][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_hmm_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:412][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_hmm_eyes.tex_hmm_eyes]
+[2026.01.31-11.46.41:412][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_hmm_eyes]
+[2026.01.31-11.46.41:412][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_hmm_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_hmm_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:433][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_hmm_eyes
+[2026.01.31-11.46.41:433][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_hmm_eyes8F6930944F1DDFA78EBF96942E3A2594.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_hmm_eyes.uasset'
+[2026.01.31-11.46.41:435][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_shades_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:437][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_shades_eyes.tex_shades_eyes]
+[2026.01.31-11.46.41:437][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_shades_eyes]
+[2026.01.31-11.46.41:437][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_shades_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_shades_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:456][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_shades_eyes
+[2026.01.31-11.46.41:456][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_shades_eyes944E01F248D7063157ECE68CC12DAF67.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_shades_eyes.uasset'
+[2026.01.31-11.46.41:458][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_side_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:460][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_side_eyes.tex_side_eyes]
+[2026.01.31-11.46.41:460][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_side_eyes]
+[2026.01.31-11.46.41:460][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_side_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_side_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:480][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_side_eyes
+[2026.01.31-11.46.41:480][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_side_eyesFA03199442579A2AA695679A4298F788.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_side_eyes.uasset'
+[2026.01.31-11.46.41:482][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_snake_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:483][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_snake_eyes.tex_snake_eyes]
+[2026.01.31-11.46.41:483][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_snake_eyes]
+[2026.01.31-11.46.41:483][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_snake_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_snake_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:504][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_snake_eyes
+[2026.01.31-11.46.41:504][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_snake_eyes72D01E6C41D9739591D015BD41CC16BA.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_snake_eyes.uasset'
+[2026.01.31-11.46.41:506][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GhostFace/EyeSheets/tex_sus_eyes] ([1] browsable assets)...
+[2026.01.31-11.46.41:508][779]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GhostFace/EyeSheets/tex_sus_eyes.tex_sus_eyes]
+[2026.01.31-11.46.41:508][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/GhostFace/EyeSheets/tex_sus_eyes]
+[2026.01.31-11.46.41:508][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostFace/EyeSheets/tex_sus_eyes" FILE="D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_sus_eyes.uasset" SILENT=true
+[2026.01.31-11.46.41:527][779]LogSavePackage: Moving output files for package: /Game/GhostFace/EyeSheets/tex_sus_eyes
+[2026.01.31-11.46.41:527][779]LogSavePackage: Moving 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/tex_sus_eyes1C6FD38B45705F2A2C60089100C6E48B.tmp' to 'D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Content/GhostFace/EyeSheets/tex_sus_eyes.uasset'
+[2026.01.31-11.46.41:539][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 337.685 ms (total: 4.70 sec)
+[2026.01.31-11.46.41:601][779]LogContentValidation: Display: Starting to validate 11 assets
+[2026.01.31-11.46.41:601][779]LogContentValidation: Enabled validators:
+[2026.01.31-11.46.41:601][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-11.46.41:601][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-11.46.41:601][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-11.46.41:601][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-11.46.41:601][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-11.46.41:601][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/Level_FaceTesting Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_bbs_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_blue_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_bug_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_chad_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_cute_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_hmm_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_shades_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_side_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_snake_eyes Validating asset
+[2026.01.31-11.46.41:601][779]AssetCheck: /Game/GhostFace/EyeSheets/tex_sus_eyes Validating asset
+[2026.01.31-11.46.41:622][779]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/LocalWorkDir/2203351/JobalJameJam/DeadFraternity/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.31-11.46.42:869][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.31-11.46.42:874][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.31-11.46.42:901][904]LogPlayLevel: Creating play world package: /Game/GhostFace/UEDPIE_0_Level_FaceTesting
+[2026.01.31-11.46.42:904][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003032s)
+[2026.01.31-11.46.42:904][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostFace/Level_FaceTesting.Level_FaceTesting to /Game/GhostFace/UEDPIE_0_Level_FaceTesting.Level_FaceTesting (0.003079s)
+[2026.01.31-11.46.42:923][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.31-11.46.42:924][904]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_FaceTesting
+[2026.01.31-11.46.42:927][904]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2026.01.31-11.46.42:927][904]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.01.31-11.46.42:927][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-11.46.42:927][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-11.46.42:927][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-11.46.42:927][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-11.46.42:927][904]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-11.46.42:927][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-11.46.42:927][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-11.46.42:927][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-11.46.42:927][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-11.46.42:927][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-11.46.42:927][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-11.46.42:928][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-11.46.42:944][904]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.01.31-11.46.42:944][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-11.46.42:944][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-11.46.42:944][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-11.46.42:945][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.01.31-11.46.42:945][904]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=30
+[2026.01.31-11.46.42:945][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.01.31-11.46.42:945][904]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=29720
+[2026.01.31-11.46.42:945][904]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=30
+[2026.01.31-11.46.42:947][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.01.31-11.46.42:947][904]LogInit: FAudioDevice initialized with ID 30.
+[2026.01.31-11.46.42:947][904]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level_FaceTesting'.
+[2026.01.31-11.46.42:947][904]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.01.31-11.46.42:950][904]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.31-11.46.42:950][904]LogWorld: Bringing World /Game/GhostFace/UEDPIE_0_Level_FaceTesting.Level_FaceTesting up for play (max tick rate 0) at 2026.01.31-11.46.42
+[2026.01.31-11.46.42:951][904]LogWorld: Bringing up level for play took: 0.000619
+[2026.01.31-11.46.42:952][904]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.01.31-11.46.42:958][904]PIE: Server logged in
+[2026.01.31-11.46.42:959][904]PIE: Play in editor total start time 0.086 seconds.
+[2026.01.31-11.47.08:824][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-11.47.08:824][876]LogWorld: BeginTearingDown for /Game/GhostFace/UEDPIE_0_Level_FaceTesting
+[2026.01.31-11.47.08:825][876]LogWorld: UWorld::CleanupWorld for Level_FaceTesting, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-11.47.08:825][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-11.47.08:832][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.31-11.47.08:835][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-11.47.08:863][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-11.47.08:863][876]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.01.31-11.47.08:863][876]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2026.01.31-11.47.08:865][876]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2026.01.31-11.47.08:865][876]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=30
+[2026.01.31-11.47.08:869][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.31-11.47.08:959][877]LogPlayLevel: Display: Destroying online subsystem :Context_36
