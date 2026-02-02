@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+DeadFraternity/Intermediate/CachedAssetRegistry_0.bin
+DeadFraternity/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+DeadFraternity/Saved/Config/CrashReportClient/UECC-Windows-54BBFB984D15562B1204A999E8ADF952/CrashReportClient.ini
+DeadFraternity/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+DeadFraternity/Saved/Logs/DeadFraternity.log
+DeadFraternity/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_5b9d737e1f0f285c/Default/DDCKey-Editor.txt

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\LocalWorkDir\\2203351\\JobalJameJam\\DeadFraternity\\Intermediate\\Source\\DeadFraternity.Build.cs",
+		"D:\\LocalWorkDir\\2203351\\JobalJameJam\\DeadFraternity\\Intermediate\\Source\\DeadFraternity.Target.cs",
+		"D:\\LocalWorkDir\\2203351\\JobalJameJam\\DeadFraternity\\Intermediate\\Source\\DeadFraternityClient.Target.cs",
+		"D:\\LocalWorkDir\\2203351\\JobalJameJam\\DeadFraternity\\Intermediate\\Source\\DeadFraternityEditor.Target.cs",
+		"D:\\LocalWorkDir\\2203351\\JobalJameJam\\DeadFraternity\\Intermediate\\Source\\DeadFraternityServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
